@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cgc:home|Door43 (cgc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cgc|d43-cgc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cgc/archive/master.zip|d43-cgc.zip]]
+
+**Recent Changes**
+{{changes>ns = cgc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cgc|Ethnologue data]]
+
